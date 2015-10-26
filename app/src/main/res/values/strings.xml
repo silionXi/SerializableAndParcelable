@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SerializableAndParcelable</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Serializable">Serializable</string>
+    <string name="Parcelable">Parcelable</string>
+</resources>
